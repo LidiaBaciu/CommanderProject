@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pregatire\\dotnetCore\\Commander\\Commander.csproj": {}
+    "D:\\pregatire\\dotnetCore\\CommanderProject\\Commander.csproj": {}
   },
   "projects": {
-    "D:\\pregatire\\dotnetCore\\Commander\\Commander.csproj": {
+    "D:\\pregatire\\dotnetCore\\CommanderProject\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pregatire\\dotnetCore\\Commander\\Commander.csproj",
+        "projectUniqueName": "D:\\pregatire\\dotnetCore\\CommanderProject\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\pregatire\\dotnetCore\\Commander\\Commander.csproj",
+        "projectPath": "D:\\pregatire\\dotnetCore\\CommanderProject\\Commander.csproj",
         "packagesPath": "C:\\Users\\skadr\\.nuget\\packages\\",
-        "outputPath": "D:\\pregatire\\dotnetCore\\Commander\\obj\\",
+        "outputPath": "D:\\pregatire\\dotnetCore\\CommanderProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
