@@ -79,3 +79,5 @@ D:\pregatire\dotnetCore\CommanderProject\bin\Debug\netcoreapp3.1\runtimes\unix\l
 D:\pregatire\dotnetCore\CommanderProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\pregatire\dotnetCore\CommanderProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\pregatire\dotnetCore\CommanderProject\obj\Debug\netcoreapp3.1\Commander.csproj.CopyComplete
+D:\pregatire\dotnetCore\CommanderProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\pregatire\dotnetCore\CommanderProject\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
